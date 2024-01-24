@@ -1,0 +1,27 @@
+﻿{"frames": {
+
+"CachedBmp_67":
+{
+	"frame": {"x":0,"y":0,"w":1911,"h":1162},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1911,"h":1162},
+	"sourceSize": {"w":1911,"h":1162}
+},
+"logoupsicopy":
+{
+	"frame": {"x":0,"y":1164,"w":1242,"h":878},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1242,"h":878},
+	"sourceSize": {"w":1242,"h":878}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.5.191",
+	"image": "portfolio bakri.fla_atlas_12.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

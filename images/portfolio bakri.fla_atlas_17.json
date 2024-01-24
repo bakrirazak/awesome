@@ -1,0 +1,91 @@
+﻿{"frames": {
+
+"Bitmap11":
+{
+	"frame": {"x":0,"y":1570,"w":673,"h":453},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":673,"h":453},
+	"sourceSize": {"w":673,"h":453}
+},
+"CachedBmp_2":
+{
+	"frame": {"x":902,"y":442,"w":858,"h":440},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":858,"h":440},
+	"sourceSize": {"w":858,"h":440}
+},
+"CachedBmp_3":
+{
+	"frame": {"x":902,"y":0,"w":858,"h":440},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":858,"h":440},
+	"sourceSize": {"w":858,"h":440}
+},
+"CachedBmp_51":
+{
+	"frame": {"x":0,"y":0,"w":334,"h":1218},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":334,"h":1218},
+	"sourceSize": {"w":334,"h":1218}
+},
+"CachedBmp_57":
+{
+	"frame": {"x":1762,"y":0,"w":279,"h":1218},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":279,"h":1218},
+	"sourceSize": {"w":279,"h":1218}
+},
+"CachedBmp_6":
+{
+	"frame": {"x":336,"y":884,"w":946,"h":341},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":946,"h":341},
+	"sourceSize": {"w":946,"h":341}
+},
+"CachedBmp_7":
+{
+	"frame": {"x":0,"y":1227,"w":903,"h":341},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":903,"h":341},
+	"sourceSize": {"w":903,"h":341}
+},
+"CachedBmp_74":
+{
+	"frame": {"x":905,"y":1227,"w":909,"h":335},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":909,"h":335},
+	"sourceSize": {"w":909,"h":335}
+},
+"CachedBmp_80":
+{
+	"frame": {"x":905,"y":1564,"w":789,"h":375},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":789,"h":375},
+	"sourceSize": {"w":789,"h":375}
+},
+"_91be9e56e012326c54d8c3f632d3a5d0":
+{
+	"frame": {"x":336,"y":0,"w":564,"h":709},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":564,"h":709},
+	"sourceSize": {"w":564,"h":709}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.5.191",
+	"image": "portfolio bakri.fla_atlas_17.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

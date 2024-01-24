@@ -1,0 +1,51 @@
+﻿{"frames": {
+
+"CachedBmp_16":
+{
+	"frame": {"x":0,"y":677,"w":1014,"h":636},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1014,"h":636},
+	"sourceSize": {"w":1014,"h":636}
+},
+"CachedBmp_70":
+{
+	"frame": {"x":894,"y":1315,"w":1070,"h":578},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1070,"h":578},
+	"sourceSize": {"w":1070,"h":578}
+},
+"illustratorLogo2015":
+{
+	"frame": {"x":0,"y":0,"w":1200,"h":675},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1200,"h":675},
+	"sourceSize": {"w":1200,"h":675}
+},
+"photo_20240122_212056PhotoRoompngcopy":
+{
+	"frame": {"x":0,"y":1315,"w":892,"h":714},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":892,"h":714},
+	"sourceSize": {"w":892,"h":714}
+},
+"photo_20240122_221755PhotoRoom":
+{
+	"frame": {"x":1202,"y":0,"w":720,"h":1080},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":720,"h":1080},
+	"sourceSize": {"w":720,"h":1080}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.5.191",
+	"image": "portfolio bakri.fla_atlas_15.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
